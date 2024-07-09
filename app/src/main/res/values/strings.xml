@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AtomTest</string>
+    <string name="charger_select_screen_title">Выберите зарядку</string>
+    <string name="select_city_button_text">Посмотреть зарядки</string>
 </resources>
